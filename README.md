@@ -6,3 +6,4 @@ Facebook state retriever plugin compatible for node-facebook and facebook-chat-a
 3. Enable developer mode.
 4. Click on the `Load unpacked`
 5. Select the folder of this repository from step 1
+6. Once added, open the extension and make sure you are logged in to `facebook.com`
